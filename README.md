@@ -1,26 +1,45 @@
-## Hi there 👋
+### Hey there 👋, I'm **Nazar** (*a.k.a Grinnazar*)!
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grinnazar)](https://github.com/Grinnazar)
+✨ I'm a **Computer Science student** diving deep into the exciting waters of **Data Science** 📈✨.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grinnazar)](https://github.com/anuraghazra/Grinnazar)
+### 🌱 Currently Growing in:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Grinnazar" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-<!--
-**Grinnazar/Grinnazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Data Science, ML, and AI 🧠
+* Polish 🇵🇱 (alongside fluent Ukrainian 🇺🇦, English 🇬🇧, and Russian 👀)
+* Linux (Mint 🌿 & Manjaro 🐧)
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **OS**: Linux Mint & Windows 11 (Dual Boot Life 🔥)
+* **Languages**: Python, Java, C++, JavaScript
+* **Tools & Frameworks**: Jupyter, Pandas, NumPy, React, Git, Docker
+
+---
+
+## 📊 My GitHub Stats:
+
+![Grinnazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grinnazar\&count_private=true\&show_icons=true\&theme=tokyonight)
+
+## 🌐 Languages I Speak (in code, of course):
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grinnazar\&layout=compact\&theme=tokyonight)
+
+---
+
+### 🎯 What's next?
+
+* 🔭 Tackling cool projects in Data Science
+* 📖 Mastering advanced Polish
+* 🎲 Contributing more to Open Source
+
+### ⚡ Fun Fact
+
+> My brain compiles better on Linux 🐧😄
+
+---
+
+### 📫 Let's Connect!
+
+* GitHub: [Grinnazar](https://github.com/Grinnazar)
+
+*"Stay curious, keep coding!" ✌️*
