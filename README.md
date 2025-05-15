@@ -36,7 +36,7 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ---
 
-## 🧠 Random Nerd Stuff
+## 🧠 Key points of programming
 
 - I'm into understanding how stuff works, not just using it.
 - I break things just to see how to fix them.
