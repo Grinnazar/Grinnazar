@@ -28,23 +28,17 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 <table>
   <tr>
-    <!-- LEFT COLUMN -->
     <td>
-      <!-- profile + languages -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent"><br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent">
     </td>
 
-    <!-- RIGHT COLUMN -->
-    <td align="center" style="vertical-align: top;">
-      <!-- motivational poster -->
+  </tr>
+      <td align="center" style="vertical-align: top;">
       <img src="https://th.bing.com/th/id/OIP.gS2fq-RLOyATZ9agQo3NAwAAAA?rs=1&pid=ImgDetMain" width="300"><br>
-      <!-- stats card -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent"><br>
-      <!-- commit-by-hour histogram -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2">
     </td>
-  </tr>
 </table>
 
 
