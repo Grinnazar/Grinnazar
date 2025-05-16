@@ -54,7 +54,7 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
       </table>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img src="https://th.bing.com/th/id/OIP.gS2fq-RLOyATZ9agQo3NAwAAAA?rs=1&pid=ImgDetMain" width="500" />
+      <img src="https://static.vecteezy.com/system/resources/previews/025/251/155/original/take-small-steps-everyday-motivational-typography-quote-design-png.png" width="300" />
     </td>
   </tr>
 </table>
