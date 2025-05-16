@@ -28,14 +28,11 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 
 <table>
-  <!-- LEFT 65 % ————>
   <tr>
     <td width="65%" valign="top">
-      <!-- profile details -->
       <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent"
         width="100%" />
-      <!-- two half-width cards in a 100 %-wide sub-table -->
       <table width="100%">
         <tr>
           <td width="50%">
@@ -50,7 +47,6 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
           </td>
         </tr>
       </table>
-      <!-- stats -->
       <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent"
         width="100%" />
