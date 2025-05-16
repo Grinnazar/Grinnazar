@@ -36,10 +36,8 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" /><br/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
     </td>
-
-    <!----- RIGHT: motivational poster –-->
     <td align="center" style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/Grinnazar/Grinnazar/main/9dd62845-794a-41a2-a6da-f4677ae063b8.png" width="300"/>
+      <img src="https://th.bing.com/th/id/OIP.gS2fq-RLOyATZ9agQo3NAwAAAA?rs=1&pid=ImgDetMain" width="300"/>
     </td>
   </tr>
 </table>
