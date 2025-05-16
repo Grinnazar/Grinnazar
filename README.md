@@ -26,29 +26,32 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
-<!-- Big image first -->
-<p align="center">
-  <img src="Steps.png" width="300px" />
-</p>
-
-<!-- Stat cards table -->
 <table>
   <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
+    <td width="70%">
+      <table>
+        <tr>
+          <td colspan="2">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
+          </td>
+          <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
+          </td>
+        </tr>
+      </table>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
+    <td width="30%" align="center" style="vertical-align: top;">
+      <img src="Steps.png" width="200px" />
     </td>
   </tr>
 </table>
