@@ -29,7 +29,7 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent)|
 | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woobe-studio&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grinnazar&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent) |
 | :-: | :-: | :-: |
 
 
