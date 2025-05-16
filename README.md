@@ -26,32 +26,26 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
-<style>
-  .mint-green {
-    filter: hue-rotate(90deg) saturate(1.5) brightness(1.1);
-  }
-</style>
-
 <table>
   <tr>
     <td>
       <table>
         <tr>
           <td colspan="2">
-            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
           </td>
         </tr>
         <tr>
           <td>
-            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
           </td>
           <td>
-            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
           </td>
         </tr>
         <tr>
           <td colspan="2" align="center">
-            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
           </td>
         </tr>
       </table>
