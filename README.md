@@ -27,35 +27,32 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 ## 📊 GitHub Stats
 
 
+## 📊 GitHub Stats
+
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td>
       <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent"
-        width="100%" />
-      <table width="100%">
-        <tr>
-          <td width="50%">
-            <img
-              src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent"
-              width="100%" />
-          </td>
-          <td width="50%">
-            <img
-              src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2"
-              width="100%" />
-          </td>
-        </tr>
-      </table>
+        width="420" />
+      <div>
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent"
+          width="205" />
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2"
+          width="205" />
+      </div>
       <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent"
-        width="100%" />
+        width="420" />
     </td>
-    <td width="35%" valign="top" align="center">
-      <img src="Steps.png" width="100%" />
+    <td rowspan="3" valign="top" align="center">
+      <img src="Steps.png" width="200" />
     </td>
   </tr>
 </table>
+
 
 
 ---
