@@ -26,13 +26,11 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Grinnazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grinnazar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent)|
+| :-: | :-: |
 
-<a href="https://github.com/Grinnazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grinnazar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Grinnazar's GitHub Stats" />
-</a>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woobe-studio&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent) |
+| :-: | :-: | :-: |
 
 
 ---
