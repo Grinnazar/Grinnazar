@@ -31,7 +31,7 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
     <td>
       <table>
         <tr>
-          <td colspan="2">
+          <td colspan="1">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
           </td>
         </tr>
@@ -44,7 +44,7 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
           </td>
         </tr>
         <tr>
-          <td colspan="2" align="center">
+          <td colspan="1" align="center">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
           </td>
         </tr>
