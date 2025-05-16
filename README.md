@@ -26,24 +26,19 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Grinnazar/Grinnazar/main/9dd62845-794a-41a2-a6da-f4677ae063b8.png" width="300"/>
-</p>
-
-<!-- Motivational image centered on top -->
-<p align="center">
-  <img src="https://th.bing.com/th/id/OIP.gS2fq-RLOyATZ9agQo3NAwAAAA?rs=1&pid=ImgDetMain" width="300">
-</p>
-
-<!-- Two-column layout: other stats on left, main stats card centered below the image -->
+<!-- Two-column layout: GitHub stats on the left, motivational image + stats card on the right -->
 <table>
   <tr>
+    <!-- Left column: profile, language, and commit time cards -->
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" /><br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" /><br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
     </td>
+
+    <!-- Right column: motivational image and stats card -->
     <td align="center" style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/Grinnazar/Grinnazar/main/bcc18ecc-aa9a-4a2e-8c07-c710e51d7912.png" width="300"/><br><br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
     </td>
   </tr>
