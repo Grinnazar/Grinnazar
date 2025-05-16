@@ -26,29 +26,32 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
+<style>
+  .mint-green {
+    filter: hue-rotate(90deg) saturate(1.5) brightness(1.1);
+  }
+</style>
+
 <table>
   <tr>
-    <!-- LEFT COLUMN: all GitHub stat cards -->
     <td>
-      <!-- nested grid -->
       <table>
-        <!-- row 1 -->
         <tr>
           <td colspan="2">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
+            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
           </td>
         </tr>
         <tr>
           <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
+            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
           </td>
           <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
+            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
           </td>
         </tr>
         <tr>
           <td colspan="2" align="center">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
+            <img class="mint-green" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
           </td>
         </tr>
       </table>
@@ -69,9 +72,3 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 - I break things just to see how to fix them.
 
 ---
-
-<!-- social media icons (optional, add your own if you want) -->
-
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Shields: https://shields.io/ -->
