@@ -26,11 +26,22 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent)|
-| :-: | :-: |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Grinnazar/Grinnazar/main/9dd62845-794a-41a2-a6da-f4677ae063b8.png" width="300"/>
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent) |
-| :-: | :-: |
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
+    </td>
+  </tr>
+</table>
 
 
 
