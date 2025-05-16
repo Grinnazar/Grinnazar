@@ -26,32 +26,29 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ## 📊 GitHub Stats
 
-<!-- this stays big and hugs the right edge -->
-<img src="Steps.png" align="right" width="180px" />
-
 <table>
   <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" />
-    </td>
-  </tr>
-  <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent"
+        width="420" />
+      <div>
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent"
+          width="205" />
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2"
+          width="205" />
+      </div>
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent"
+        width="420" />
     </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" />
+    <td rowspan="3" valign="top" align="center">
+      <img src="Steps.png" width="200" />
     </td>
   </tr>
 </table>
-
-<!-- pushes following content below the floated image -->
-<br clear="right" />
 
 
 ---
