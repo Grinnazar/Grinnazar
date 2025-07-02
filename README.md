@@ -9,6 +9,9 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 ---
 
 ## ⚙️ Tech & Tools I Actually Use
+
+<div align="center">
+
 ![](https://img.shields.io/badge/OS-Linux_Mint-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -22,36 +25,30 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 ![](https://img.shields.io/badge/DS-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
----
+</div>
 
+---
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent"
-        width="420" />
-      <div>
-        <img
-          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent"
-          width="205" />
-        <img
-          src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2"
-          width="205" />
-      </div>
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent"
-        width="420" />
-    </td>
-    <td rowspan="3" valign="top" align="center">
-      <img src="Steps.png" width="200" />
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  
+  <!-- Profile Details -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" width="100%" alt="Profile Details"/>
+  
+  <!-- Language and Time Cards Side by Side -->
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" width="49%" alt="Most Used Languages"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" width="49%" alt="Productive Time"/>
+  </div>
+  
+  <!-- Stats Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" width="100%" alt="GitHub Stats"/>
+  
+  <!-- Steps Image -->
+  <img src="Steps.png" width="30%" style="min-width: 150px; max-width: 250px;" alt="Steps"/>
+  
+</div>
 
 ---
 
@@ -61,3 +58,20 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 - I break things just to see how to fix them.
 
 ---
+
+<!-- Alternative mobile-friendly layout using details/summary -->
+<details>
+<summary><b>📱 Mobile View? Click for Stats!</b></summary>
+<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinnazar&theme=transparent" width="100%"/>
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinnazar&theme=transparent" width="100%"/>
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grinnazar&theme=transparent&utcOffset=2" width="100%"/>
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grinnazar&theme=transparent" width="100%"/>
+  <br><br>
+  <img src="Steps.png" width="50%" style="max-width: 200px;"/>
+</div>
+</details>
