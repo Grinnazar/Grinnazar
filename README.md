@@ -1,7 +1,8 @@
 [![Header](https://raw.githubusercontent.com/Grinnazar/Grinnazar/main/ReadMe_Top.png "Header")](https://github.com/Grinnazar)
 # Hi, welcome! 👋
-I'm Nazar Hrinchenko, a CS student on my way to mastering data science. I'm in love with Python, R, C#, and even touch some C/C++ and assembly when needed (yeah, I like pain).
-I run on Linux Mint, and I code in VS Code. No, I don't use Cursor. If you know, you know — that IDE writes code for you and kills your brain cells. Not worth the trade.
+
+I'm Nazar Hrinchenko, a CS student on my way to mastering data science. I'm in love with Python, R, C#, and even touch some C/C++ and assembly when needed (yeah, I like pain). I run on Linux Mint, and I code in VS Code. No, I don't use Cursor. If you know, you know — that IDE writes code for you and kills your brain cells. Not worth the trade.
+
 ---
 ## ⚙️ Tech & Tools I Actually Use
 ![](https://img.shields.io/badge/OS-Linux_Mint-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
