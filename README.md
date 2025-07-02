@@ -24,8 +24,6 @@ I run on **Linux Mint**, and I code in **VS Code**. No, I don't use Cursor. If y
 
 ---
 
-## 📊 GitHub Stats
-
 
 ## 📊 GitHub Stats
 
