@@ -41,6 +41,7 @@ I run on Linux Mint, and I code in VS Code. No, I don't use Cursor. If you know,
     </td>
   </tr>
 </table>
+
 ---
 ## 🧠 Key points of programming
 - I'm into understanding how stuff works, not just using it.
